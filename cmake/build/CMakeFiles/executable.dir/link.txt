@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/executable.dir/SOURCE_FILES/bplusTree.c.o CMakeFiles/executable.dir/SOURCE_FILES/main.c.o  -o executable 
