@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../HEADER_FILES/bplusTree.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+
+/home/chiro/Desktop/final dsa project/SOURCE_FILES/bplusTree.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+bplusTree.h
+/home/chiro/Desktop/final dsa project/SOURCE_FILES/bplusTree.h
+
+/home/chiro/Desktop/final dsa project/SOURCE_FILES/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+bplusTree.h
+/home/chiro/Desktop/final dsa project/SOURCE_FILES/bplusTree.h
+

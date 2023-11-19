@@ -1,0 +1,3 @@
+/home/chiro/Desktop/final dsa project/build/CMakeFiles/rebuild_cache.dir
+/home/chiro/Desktop/final dsa project/build/CMakeFiles/edit_cache.dir
+/home/chiro/Desktop/final dsa project/build/CMakeFiles/executable.dir
